@@ -12,7 +12,7 @@ Of freedom that isn’t granted. Of consent that matters. Of communities born fr
 
 ---
 
-📖 Full text available in [`Enchiridion Liberationis.txt`](./enchiridion-liberationics.txt)
+📖 Full text available in [`Enchiridion Liberationis.txt`](./enchiridion-liberationis.txt)
 
 ## License
 
